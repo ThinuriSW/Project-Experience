@@ -28,4 +28,4 @@ Investigate which social, demographic, and behavioral factors are associated wit
 
 ## 📊 Figures / Poster
 
-![Poster or Key Figure](Poster.png)
+![Research Poster](Loneliness.png)
