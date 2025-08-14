@@ -1,7 +1,31 @@
-# Loneliness in the Elderly
+# 🧓 Loneliness in the Elderly
 
-**Goal:** Analyze factors correlated with loneliness among older adults.
+Welcome! This repository contains my research on analyzing factors correlated with loneliness among older adults.
 
-- **Methods:** Regression analysis, visualization
-- **Files:** `loneliness.ipynb` (+ optional HTML/PDF export)
-- **Highlights:** Clear EDA, model results, interpretable figures
+---
+
+## 🎯 Goal
+
+Investigate which social, demographic, and behavioral factors are associated with higher loneliness levels.
+
+---
+
+## 🛠️ Methods
+
+- Regression analysis (linear and/or logistic)
+- Exploratory data analysis (EDA)
+- Visualization of key relationships
+- Clear interpretation of model results
+
+---
+
+## 📂 Files
+
+- `loneliness.ipynb` — Main Jupyter notebook with full analysis
+
+
+---
+
+## 📊 Figures / Poster
+
+![Poster or Key Figure](Poster.png)
