@@ -21,6 +21,6 @@ Investigate the association between social connection behaviors and mental welln
 ## 📂 Files
 
 - `ccsc_analysis.ipynb` — Main Jupyter notebook with full analysis
-- `ccsc_` — Main Jupyter notebook with full analysis
+- `ccsc_project.pdf` — Presentation
 
 ---
