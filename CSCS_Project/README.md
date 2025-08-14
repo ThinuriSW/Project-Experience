@@ -26,6 +26,6 @@ Investigate the association between social connection behaviors and mental welln
 
 ## 🖼️ Presentation
 
-![Research Poster](Poster.png)
+![Research Poster](CSCS_project.png)
 
 ---
