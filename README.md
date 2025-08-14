@@ -7,8 +7,6 @@ Welcome to my GitHub! Here are some of my research projects:
 Identify early biomarkers of Alzheimer’s disease using radiomic features from MRI scans.  
 [Explore Project](https://github.com/ThinuriSW/Machine-Learning-Driven-Discovery-of-MRI-based-Alzheimer-s-Biomarkers)  
 
-![Alzheimer Poster](https://github.com/ThinuriSW/Machine-Learning-Driven-Discovery-of-MRI-based-Alzheimer-s-Biomarkers/blob/main/Poster.png)  
-
 [🎥 Watch Presentation](https://www.youtube.com/watch?v=W4WdSREN0iU)
 
 ---
