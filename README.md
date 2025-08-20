@@ -20,6 +20,6 @@ Analyze factors correlated with loneliness in older adults using regression and 
 
 ## 🤝 Social Connections and Mental Health
 Investigate how social interactions, like greetings between strangers, relate to mental wellness outcomes.  
-[Explore Project](https://github.com/ThinuriSW/Project-Experience)  
+[Explore Project](https://github.com/ThinuriSW/Project-Experience/tree/main/CSCS_Project)
 
 ---
