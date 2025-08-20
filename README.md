@@ -14,7 +14,7 @@ Identify early biomarkers of Alzheimer’s disease using radiomic features from 
 
 ## 👵 Loneliness in the Elderly
 Analyze factors correlated with loneliness in older adults using regression and visualization.  
-[Explore Project](https://github.com/ThinuriSW/Loneliness-Project)  
+[Explore Project](https://github.com/ThinuriSW/Project-Experience/tree/main/Loneliness_Elderly) 
 
 ---
 
