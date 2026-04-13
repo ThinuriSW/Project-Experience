@@ -62,12 +62,3 @@ Main findings from the current version:
 - Burnout onset was delayed under the learned policy
 - Cumulative absenteeism was substantially reduced in difficult workplace conditions
 
-## Repository Structure
-
-```text
-workplace_stress_abm_ml_rl/
-├── README.md
-├── requirements.txt
-├── src/
-├── results/
-└── figures/
