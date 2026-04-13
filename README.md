@@ -20,7 +20,7 @@ This project examines how occupational skill composition shapes vulnerability to
 
 ---
 
-## 🧠 Machine Learning for MRI-based Alzheimer's Biomarkers
+## Machine Learning for MRI-based Alzheimer's Biomarkers
 Identify early biomarkers of Alzheimer’s disease using radiomic features from MRI scans.  
 [Explore Project](https://github.com/ThinuriSW/Project-Experience/tree/main/Alzheimer_Biomarkers)
 
@@ -29,13 +29,13 @@ Identify early biomarkers of Alzheimer’s disease using radiomic features from 
 
 ---
 
-## 👵 Loneliness in the Elderly
+## Loneliness in the Elderly
 Analyze factors correlated with loneliness in older adults using regression and visualization.  
 [Explore Project](https://github.com/ThinuriSW/Project-Experience/tree/main/Loneliness_Elderly) 
 
 ---
 
-## 🤝 Social Connections and Mental Health
+## Social Connections and Mental Health
 Investigate how social interactions, like greetings between strangers, relate to mental wellness outcomes.  
 [Explore Project](https://github.com/ThinuriSW/Project-Experience/tree/main/CSCS_Project)
 
