@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Thinuri 👋
+# Hey, I'm Thinuri
 
 ### A little maths. A lot of curiosity. Plenty of data.
 
-🧠 Brains &nbsp; · &nbsp; 🎲 Statistics &nbsp; · &nbsp; 🤖 Machine learning &nbsp; · &nbsp; 🤝 People
+🧠 Brains &nbsp; · &nbsp; 🎲 Statistics &nbsp; · &nbsp; 🤖 Machine learning &nbsp;
 
 ![Neuroimaging](https://img.shields.io/badge/Neuroimaging-A78BFA?style=for-the-badge&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-38BDF8?style=for-the-badge&logoColor=white)
