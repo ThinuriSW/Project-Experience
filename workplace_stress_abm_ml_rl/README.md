@@ -1,3 +1,5 @@
+[← Back to all projects](../README.md)
+
 # Workplace Stress ABM + ML + RL
 
 This project models workplace stress, burnout, productivity, and absenteeism using an agent-based simulation framework. It combines a theory-driven rule-based model with machine learning and reinforcement learning components to study how worker coping behavior and organizational interventions affect long-term outcomes.
