@@ -32,7 +32,7 @@ My projects explore how brains change, why data goes missing, how work affects p
 | 🛠️ Hospitals and insurance pricing | [Applied modelling](#applied-lab) |
 | 🤝 Loneliness and everyday interactions | [Social connection projects](#connection-lab) |
 
-> **Explore at your own pace:** open a project's details for methods, dates, and research context. “Explore project” links lead to materials already in this repository.
+> **Start with the work:** browse the posters and figures below, read the SUDS report, or follow project links to notebooks and analysis files. Expand the research notes for methods and context.
 
 <a id="brain-lab"></a>
 
@@ -43,6 +43,28 @@ My projects explore how brains change, why data goes missing, how work affects p
 **Longitudinal MRI-Based Modelling of Neurodegenerative Disease Progression**
 
 Following brain trajectories over time to understand neurodegenerative disease.
+
+#### 🖼️ SUDS research poster
+
+[![SUDS research poster on nonlinear Bayesian mixed-effects modelling of grey-matter trajectories in bvFTD](https://github.com/user-attachments/assets/e7973ebb-e827-4408-a3be-9745f62d480d)](https://github.com/user-attachments/assets/e7973ebb-e827-4408-a3be-9745f62d480d)
+
+**The project at a glance.** My SUDS poster brings together the motivation, MRI preprocessing, nonlinear trajectory model, and example brain maps. Click the poster to open it at full size.
+
+[📄 Read the full SUDS report](https://github.com/user-attachments/files/34382657/SUDS_Report.pdf)
+
+#### 🧠 From a fitted curve to a changing brain map
+
+[![SUDS report Figure 9 showing grey-matter density, velocity, and acceleration trajectories beside brain maps at frames 0, 30, 60, and 90](https://github.com/user-attachments/assets/8998b9fc-fba0-4bb5-9e85-abba3505f20d)](https://github.com/user-attachments/assets/8998b9fc-fba0-4bb5-9e85-abba3505f20d)
+
+**Figure 9 · What changes, how fast, and whether that change is speeding up.** Fitted trajectories for an example symptomatic bvFTD participant sit alongside sagittal slices from the 4D maps. Rows show grey-matter density, velocity, and acceleration; columns show normalized frames 0, 30, 60, and 90. Negative velocity indicates decline. During decline, negative acceleration means faster loss, while positive acceleration means slowing loss.
+
+#### 🎨 Mapping patterns of acceleration
+
+[![SUDS report Figure 10 showing voxelwise acceleration classes in sagittal, coronal, and axial brain views, with a categorical legend](https://github.com/user-attachments/assets/ecd367d4-8773-4298-b129-a15da602acab)](https://github.com/user-attachments/assets/ecd367d4-8773-4298-b129-a15da602acab)
+
+**Figure 10 · Different trajectory patterns across the brain.** The colored regions group voxels by the signs of acceleration and its rate of change. Group 0 is unassigned; groups 1–4 are the trajectory classes defined in the report. The thin green crosshairs mark the selected slice location, rather than a class.
+
+*These are exploratory trajectory visualizations, not validated conversion predictions. Full methods, uncertainty calculations, and limitations are in the [report](https://github.com/user-attachments/files/34382657/SUDS_Report.pdf).*
 
 <details>
 <summary>🔎 Open the research notebook</summary>
