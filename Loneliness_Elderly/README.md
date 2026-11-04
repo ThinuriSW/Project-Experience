@@ -1,31 +1,27 @@
-# 🧓 Loneliness in the Elderly
+[← Back to all projects](../README.md)
 
-Welcome! This repository contains my research on analyzing factors correlated with loneliness among older adults.
+# 🧓 Loneliness in older adults
 
----
+Exploring social, demographic, and behavioural factors associated with loneliness through regression, exploratory analysis, and visualization.
 
-## 🎯 Goal
+## 📂 Explore the work
 
-Investigate which social, demographic, and behavioral factors are associated with higher loneliness levels.
+| Material | Open |
+| :--- | :--- |
+| Research poster | [View poster · PNG](./Loneliness.png) |
+| Analysis notebook | [View notebook](./loneliness.ipynb) |
+| Related social connection analysis | [Explore project](../CSCS_Project/) |
 
----
+## 🖼️ Poster
 
-## 🛠️ Methods
+[![Loneliness research poster](./Loneliness.png)](./Loneliness.png)
 
-- Regression analysis (linear and/or logistic)
-- Exploratory data analysis (EDA)
-- Visualization of key relationships
-- Clear interpretation of model results
+## 🔬 Research context
 
----
+**University of Toronto · Canadian Statistical Literacy Competition (ISLP National) · December 2024–March 2025**
 
-## 📂 Files
+- Analyzed Canadian Social Connection Survey data on social interaction and loneliness.
+- Used regression modelling, permutation tests, and effect size analysis.
+- Completed the coding, analysis, and poster creation.
 
-- `loneliness.ipynb` — Main Jupyter notebook with full analysis
-
-
----
-
-## 📊 Figures / Poster
-
-![Research Poster](Loneliness.png)
+**Recognition:** Second place across Canada, Canadian Statistical Literacy Competition, March 2025.
