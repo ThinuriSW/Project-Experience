@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Thinuri
+# Hey, I'm Thinuri 👋
 
 ### A little maths. A lot of curiosity. Plenty of data.
 
-🧠 Brains &nbsp; · &nbsp; 🎲 Statistics &nbsp; · &nbsp; 🤖 Machine learning &nbsp;
+🧠 Brains &nbsp; · &nbsp; 🎲 Statistics &nbsp; · &nbsp; 🤖 Machine learning &nbsp; · &nbsp; 🤝 People
 
 ![Neuroimaging](https://img.shields.io/badge/Neuroimaging-A78BFA?style=for-the-badge&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-38BDF8?style=for-the-badge&logoColor=white)
@@ -145,6 +145,18 @@ Supervised by Dr. Omidali (Omid) Aghababaei Jazi.
 664 occupations × 128 skill features, with psychosocial protection in the picture.
 
 **My contribution:** Implemented the full analysis and wrote the paper.
+
+#### 📊 A look inside my first-author paper
+
+[![Published occupational skill cluster map showing occupations in PCA skill space](https://github.com/user-attachments/assets/11ec6bf3-0273-4658-b431-65804d180785)](https://onlinelibrary.wiley.com/doi/full/10.1002/ajim.70131#ajim70131-fig-0004)
+
+**The skill landscape · Figure 4.** Five occupational clusters in PCA space. The first two components explain 62.8% of the variation in skill profiles.
+
+[![Published comparison of Psychosocial Buffer Index distributions across five occupational clusters](https://github.com/user-attachments/assets/7aa1dbd1-df47-4ab8-9c12-3eb835d2c0da)](https://onlinelibrary.wiley.com/doi/full/10.1002/ajim.70131#ajim70131-fig-0003)
+
+**Different jobs, different buffers · Figure 3.** Psychosocial Buffer Index distributions across clusters. Cognitive-Technical occupations had higher buffering than Cognitive-Social occupations, despite both clusters having high AI exposure.
+
+*Figures reproduced unchanged from T. Welithotage & B. Nowrouzi-Kia (2026), American Journal of Industrial Medicine. [Read the paper](https://doi.org/10.1002/ajim.70131) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). These occupation-level patterns describe job structure, rather than individual workers' outcomes.*
 
 <details>
 <summary>🔎 Open the research notebook</summary>
