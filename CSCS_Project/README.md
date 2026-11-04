@@ -1,26 +1,21 @@
-# 🤝 Social Connections and Mental Health
+[← Back to all projects](../README.md)
 
-This GitHub repository shows our research on how social interactions, such as greetings between strangers, relate to mental health outcomes.
+# 🤝 Social connections and mental health
 
----
+How do everyday interactions, including greetings between strangers, relate to mental wellness?
 
-## 🎯 Goal
+## 📂 Explore the work
 
-Investigate the association between social connection behaviors and mental wellness, measured through survey data.
+| Material | Open |
+| :--- | :--- |
+| Project presentation | [Read presentation · PDF](./CSCS_project.pdf) |
+| Analysis notebook | [View notebook](./cscs_project.ipynb) |
+| Related loneliness analysis | [Explore project](../Loneliness_Elderly/) |
 
----
+## 🔬 Methods
 
-## 🛠️ Methods
+- Cleaned and preprocessed survey data.
+- Investigated relationships through exploratory analysis and regression.
+- Visualized patterns in social connection and mental wellness.
 
-- Data cleaning and preprocessing
-- Regression analysis and exploratory data analysis (EDA)
-- Visualization of trends and relationships between variables
-
----
-
-## 📂 Files
-
-- `ccsc_analysis.ipynb` — Main Jupyter notebook with full analysis
-- `ccsc_project.pdf` — Presentation
-
----
+The analysis examines associations, rather than establishing causal effects.
