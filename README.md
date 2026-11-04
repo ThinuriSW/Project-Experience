@@ -50,10 +50,14 @@ Following brain trajectories over time to understand neurodegenerative disease.
 **Baycrest Academy for Research · Wang Lab, Rotman Research Institute · May 2026–Present**  
 SUDS Scholar (May–August 2026), continuing as a Research Volunteer (September 2026–Present). Co-supervised by Dr. Lei Wang and Dr. Yann Cobigo.
 
-- Developed voxelwise models of longitudinal MRI data to map gray-matter change in behavioural variant frontotemporal dementia (bvFTD).
+- Developed voxelwise Bayesian mixed-effects models in logit space, mapping fitted trajectories back to grey-matter space to study behavioural variant frontotemporal dementia (bvFTD).
 - Generated brain maps showing the rate of tissue loss and how it changes over time.
 - Used Linux-based high-performance computing clusters for computationally intensive MRI analyses.
-- Built an interactive FSLeyes tool to visualize individual brain trajectories.
+- Developing an interactive FSLeyes plugin to inspect individual grey-matter density, velocity, and acceleration trajectories alongside brain maps.
+
+**Research output:** Generated voxelwise 4D maps of grey-matter density, velocity, and acceleration to explore how the location and rate of tissue change evolve over time.
+
+**Current stage:** Exploratory disease-trajectory modelling. Conversion prediction and quantitative comparison with a linear baseline remain to be validated.
 
 Presented at the SUDS Research Showcase, University of Toronto, in August 2026.
 
@@ -64,6 +68,8 @@ Presented at the SUDS Research Showcase, University of Toronto, in August 2026.
 **Alzheimer's Biomarker Detection Using MRI**
 
 Turning MRI scans into radiomic features and testing machine learning models.
+
+**My contribution:** Implemented the analysis code, contributed to the paper write-up, and delivered the three-minute talk and poster presentation.
 
 <details>
 <summary>🔎 Open the research notebook</summary>
@@ -93,6 +99,8 @@ Presented through the 2025 STEM Fellowship program and at the University of Toro
 
 Testing what happens to statistical inference when earlier outcomes influence who gets observed next.
 
+**My contribution:** Contributed to writing the manuscript.
+
 <details>
 <summary>🔎 Open the research notebook</summary>
 
@@ -110,6 +118,8 @@ Supervised by Dr. Omidali (Omid) Aghababaei Jazi.
 **Simulation and Machine Learning for Longitudinal Workplace Survey Data**
 
 1,000 simulated workers. 90 days. A prediction problem about missing responses.
+
+**My contribution:** Implemented the full project and am currently preparing the paper write-up.
 
 <details>
 <summary>🔎 Open the research notebook</summary>
@@ -133,6 +143,8 @@ Supervised by Dr. Omidali (Omid) Aghababaei Jazi.
 **Occupational Vulnerability to AI-Driven Change**
 
 664 occupations × 128 skill features, with psychosocial protection in the picture.
+
+**My contribution:** Implemented the full analysis and wrote the paper.
 
 <details>
 <summary>🔎 Open the research notebook</summary>
@@ -176,6 +188,8 @@ Modelled workplace stress, burnout, absenteeism, and productivity using an agent
 
 Looking for unusual admission and readmission patterns, then comparing hospital workflows.
 
+**My contribution:** Coded the model.
+
 <details>
 <summary>🔎 Open the research notebook</summary>
 
@@ -191,6 +205,8 @@ Looking for unusual admission and readmission patterns, then comparing hospital 
 **Predictive Modelling for Renters' Insurance Pricing**
 
 Feature engineering and XGBoost for renters' insurance pricing.
+
+**My contribution:** Coded the model.
 
 <details>
 <summary>🔎 Open the research notebook</summary>
@@ -213,6 +229,8 @@ Feature engineering and XGBoost for renters' insurance pricing.
 **Statistical Analysis of Social Isolation and Loneliness**
 
 Exploring social interaction, isolation, loneliness, and mental wellness through survey data.
+
+**My contribution:** Completed the coding, analysis, and poster creation.
 
 <details>
 <summary>🔎 Open the research notebook</summary>
