@@ -168,6 +168,12 @@ Supervised by Dr. Omidali (Omid) Aghababaei Jazi.
 
 **My contribution:** Implemented the full analysis and wrote the paper.
 
+### 🖱️ Explore the occupations yourself
+
+**[Open the interactive occupation map →](https://thinurisw.github.io/Project-Experience/occupations.html)**
+
+Hover over any occupation to see its name, AI exposure, psychosocial buffer score, and skill profile. Zoom into the map or use the legend to compare clusters.
+
 #### 📊 A look inside my first-author paper
 
 [![Published occupational skill cluster map showing occupations in PCA skill space](https://github.com/user-attachments/assets/11ec6bf3-0273-4658-b431-65804d180785)](https://onlinelibrary.wiley.com/doi/full/10.1002/ajim.70131#ajim70131-fig-0004)
