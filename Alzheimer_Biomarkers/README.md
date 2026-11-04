@@ -1,34 +1,44 @@
-# 🧠 Machine Learning for MRI-based Alzheimer's Biomarkers
+[← Back to all projects](../README.md)
 
-Welcome to the GitHub repository for my research on identifying early biomarkers of Alzheimer’s disease using radiomic features from MRI scans.
+# 🧠 Alzheimer's MRI biomarkers
 
----
+**Alzheimer's Biomarker Detection Using MRI**
 
-## 🖼️ Poster Presentation
+Turning MRI scans into radiomic features and testing machine learning models.
 
-![Research Poster](Poster.png)
+**My contribution:** Implemented the analysis code, contributed to the paper write-up, and delivered the three-minute talk and poster presentation.
 
----
 
-## 🎥 5-Minute Presentation
+**STEM Fellowship · National Inter-University Health Data & AI Program · May–August 2025**
 
-[![Watch the video](https://img.youtube.com/vi/W4WdSREN0iU/0.jpg)](https://www.youtube.com/watch?v=W4WdSREN0iU)
+- Built machine learning models using scikit-learn and PyTorch to investigate early-stage Alzheimer's biomarkers from MRI data.
+- Extracted radiomic features from OASIS-2 structural and longitudinal MRI data using PyRadiomics.
+- Processed neuroimaging data using NiBabel, Nilearn, and SimpleITK.
+- Evaluated model performance using cross-validation and feature selection.
 
-> Click to watch our brief summary of the project, methods, and results.
+Presented through the 2025 STEM Fellowship program and at the University of Toronto's Arts and Science Union Undergraduate Research Conference in March 2026.
 
----
 
-## 📁 Contents
 
-- `notebooks/` – Data preprocessing, feature extraction, and model training.
-- `figures/` – All plots and visualizations (e.g., ROC curves, feature importance).
-- `data/` – Sample CSVs with extracted radiomic and volumetric features (no raw MRI).
-- `poster.png` – Static version of our research poster.
 
----
+## 📂 Explore the work
 
-## 📫 Contact
+| Material | Open |
+| :--- | :--- |
+| Research poster | [View poster · PNG](./Poster.png) |
+| Presentation | [Watch video](https://www.youtube.com/watch?v=W4WdSREN0iU) |
+| Conference paper | [Read paper](https://doi.org/10.48448/pby5-a658) |
+| Model analysis | [View Python code](./Final%20Analysis.py) |
+| Mask creation and feature extraction | [View Python code](./Mask%20creation%20and%20Feature%20Extraction.py) |
+| Skull stripping | [View Python code](./Skull-Stripping%20via%20Synthstrip.py) |
+| Feature and demographic merge | [View Python code](./combining%20feature%20extractions%20and%20demographic%20data.py) |
+| Extracted features | [View CSV](./combined_features_with_demographics.csv) |
 
-**Thinuri Welithotage**  
-Email: [thinuri.welithotage@mail.utoronto.ca](mailto:thinuri.welithotage@mail.utoronto.ca)  
-Affiliation: Faculty of Arts & Science, University of Toronto
+## 🖼️ Poster
+
+[![Alzheimer's biomarker research poster](./Poster.png)](./Poster.png)
+
+## Contact
+
+Thinuri Welithotage · Faculty of Arts & Science, University of Toronto  
+[University email](mailto:thinuri.welithotage@mail.utoronto.ca)
