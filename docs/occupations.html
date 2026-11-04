@@ -53,7 +53,7 @@ function selectJob(job) {
     document.getElementById(key + '-value').textContent = job[key].toFixed(3);
     const count = below(key, job[key]);
     document.getElementById(key + '-comparison').textContent =
-      `Higher than ${count} of ${jobs.length} occupations in this dataset (${Math.round(100 * count / jobs.length)}%).`;
+      `Higher than ${count} of ${jobs.length} occupations in this dataset (${(100 * count / jobs.length).toFixed(1)}%).`;
   }
   const clusterIndex = plot.data.findIndex(trace => trace.name === job.cluster);
   if (clusterIndex >= 0) Plotly.restyle(plot, {visible: true}, [clusterIndex]);
