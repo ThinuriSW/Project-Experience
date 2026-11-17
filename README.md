@@ -2,73 +2,108 @@
 
 # Hey, I'm Thinuri 👋
 
-**Brains, data, and the people behind both.**
+### A little maths. A lot of curiosity. Plenty of data.
 
-Mathematics & Statistics · University of Toronto
+🧠 Brains &nbsp; · &nbsp; 🎲 Statistics &nbsp; · &nbsp; 🤖 Machine learning &nbsp; · &nbsp; 🤝 People
 
-🧠 Neuroimaging &nbsp; · &nbsp; 🎲 Statistical modelling &nbsp; · &nbsp; 🤖 Machine learning
+**Mathematics & Statistics · University of Toronto**
 
 </div>
 
-## ✨ Pick a project
+I'm curious about how brains change, how work affects people, and how everyday connections shape our lives. I use maths, statistics, and machine learning to explore those questions—and to ask better ones along the way.
 
-A few highlights from my research. Click a preview or **Explore project** for the figures, posters, reports, and methods.
+## 🧭 Pick a rabbit hole
 
-### 🧠 How does a brain change over time?
+[🧠 Brain lab](#brain-lab) · [🎲 Data lab](#data-lab) · [🤖 Work & AI](#work-lab) · [🛠️ Applied models](#applied-lab) · [🤝 Human connection](#connection-lab)
 
-Bayesian models of longitudinal MRI in behavioural variant frontotemporal dementia.
+Click into a project for its methods, findings, code, and research materials.
 
-<a href="./suds_neuroimaging/"><img src="https://github.com/user-attachments/assets/ecd367d4-8773-4298-b129-a15da602acab" alt="Three brain views showing voxelwise acceleration classes" width="620"></a>
+<a id="brain-lab"></a>
 
-**[Explore project →](./suds_neuroimaging/)** · Poster · Report · Brain maps
+## 🧠 Brains, scans & hidden signals
 
----
+### Mapping how brains change
+
+How does grey matter change over time? I use Bayesian modelling and longitudinal MRI to explore brain trajectories in behavioural variant frontotemporal dementia, mapping the rate of change and its acceleration.
+
+[Explore the MRI project →](./suds_neuroimaging/)
+
+### Finding clues to Alzheimer's
+
+Turning MRI scans into radiomic features and testing machine learning models for early biomarker research. My contributions included coding, manuscript preparation, and poster and three-minute presentations.
+
+[Explore the biomarker project →](./Alzheimer_Biomarkers/)
+
+<a id="data-lab"></a>
+
+## 🎲 When data gets complicated
+
+### When follow-up isn't random
+
+What happens when earlier outcomes influence when someone is observed next? I developed simulations to investigate bias, mean squared error, and confidence-interval coverage in longitudinal mixed-effects models.
+
+[Explore the follow-up study →](./longitudinal_followup_bias/)
+
+### Will tomorrow's survey get answered?
+
+1,000 simulated workers. 90 days. A prediction problem about missing responses. I implemented a reproducible simulation and compared GRU models with simpler baselines, checking calibration and information leakage.
+
+[Explore the survey project →](./workplace_survey_nonresponse/)
 
 <a id="work-lab"></a>
 
-### 🤖 Where does your occupation fit?
+## 🤖 Work, people & AI
 
-664 occupations, 128 skill features, and the relationship between AI exposure and psychosocial buffers.
+### Where does your occupation fit?
 
-<a href="./occupational_ai_vulnerability/"><img src="https://github.com/user-attachments/assets/11ec6bf3-0273-4658-b431-65804d180785" alt="Published PCA map of five occupational skill clusters" width="620"></a>
+664 occupations, 128 skill features, and a question about how AI exposure relates to autonomy, task variety, and social interaction. I implemented the analysis and wrote my first-author paper. You can explore the occupations yourself through the interactive map.
 
-**[Explore project →](./occupational_ai_vulnerability/)** · [Try the interactive map ↗](https://thinurisw.github.io/Project-Experience/occupations.html)
+[Explore the AI occupation project →](./occupational_ai_vulnerability/)
 
-*Preview: Figure 4, Welithotage & Nowrouzi-Kia (2026), [American Journal of Industrial Medicine](https://doi.org/10.1002/ajim.70131), [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unchanged.*
+### A simulated workplace, real questions
+
+Exploring stress, burnout, productivity, and coping in a virtual workplace. Agent-based simulation, machine learning, and reinforcement learning help investigate worker behaviour and organizational interventions.
+
+[Explore the workplace simulation →](./workplace_stress_abm_ml_rl/)
+
+<a id="applied-lab"></a>
+
+## 🛠️ Models with a mission
+
+### Where can hospitals work better?
+
+Investigating unusual admission and readmission patterns and exploring how workflows, scheduling, and follow-up practices could inform healthcare resource use. I coded the model for this DataFest project.
+
+[Explore the healthcare project →](./healthcare_resource_optimization/)
+
+### Putting a price on risk
+
+Feature engineering and XGBoost meet renters' insurance. I coded predictive models for a case competition focused on pricing strategies and risk stratification.
+
+[Explore the insurance project →](./renters_insurance_pricing/)
+
+<a id="connection-lab"></a>
+
+## 🤝 The science of connection
+
+### What shapes loneliness?
+
+Exploring how social interaction relates to loneliness among older adults through survey data, regression, permutation tests, and effect sizes. I carried the project through analysis and poster creation.
+
+[Explore the loneliness project →](./Loneliness_Elderly/)
+
+### Small interactions, big questions
+
+Even a greeting can become a research question. This project explores how everyday social interactions relate to mental wellness through survey data, regression, and visualization.
+
+[Explore the social connection project →](./CSCS_Project/)
 
 ---
-
-### 🧠 Finding clues to Alzheimer's
-
-Radiomic features and machine learning for MRI-based biomarker research.
-
-<a href="./Alzheimer_Biomarkers/"><img src="./Alzheimer_Biomarkers/Poster.png" alt="Research poster on MRI-based Alzheimer's biomarkers" width="620"></a>
-
-**[Explore project →](./Alzheimer_Biomarkers/)** · Poster · Code · Presentation · Paper
-
----
-
-### 🤝 What shapes loneliness?
-
-Survey analysis exploring social connection and loneliness among older adults.
-
-<a href="./Loneliness_Elderly/"><img src="./Loneliness_Elderly/Loneliness.png" alt="Research poster on loneliness in older adults" width="620"></a>
-
-**[Explore project →](./Loneliness_Elderly/)** · Poster · Analysis notebook
-
-## 🧭 More to explore
-
-| Project | The question | Explore |
-| :--- | :--- | :--- |
-| 🎲 Outcome-dependent follow-up | What happens when observation times depend on earlier outcomes? | [Explore project →](./longitudinal_followup_bias/) |
-| 📋 Workplace survey nonresponse | Can worker history predict tomorrow's missing response? | [Explore project →](./workplace_survey_nonresponse/) |
-| 🏥 Healthcare resources | Where do hospital admission and readmission patterns stand out? | [Explore project →](./healthcare_resource_optimization/) |
-| 🏠 Renters' insurance | How can XGBoost support pricing and risk stratification? | [Explore project →](./renters_insurance_pricing/) |
-| 🤝 Social connections | How do everyday interactions relate to mental wellness? | [Explore project →](./CSCS_Project/) |
-| 🤖 Workplace stress simulation | How do coping and interventions change simulated stress? | [Explore project →](./workplace_stress_abm_ml_rl/) |
 
 <div align="center">
 
-**Thanks for exploring my corner of GitHub ✨**
+**Thanks for wandering through my corner of GitHub ✨**
+
+[Back to the top ↑](#hey-im-thinuri-)
 
 </div>
