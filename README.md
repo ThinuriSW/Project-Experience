@@ -1,77 +1,94 @@
-# Tina · Research & projects
+<div align="center">
+
+# Tina’s research notebook 📓
+
+### Brain scans, missing data, working life—and the maths behind them.
 
 **Mathematics & Statistics · University of Toronto**
 
-Brain scans, working life, and human connection. This collection brings together the questions I’ve explored through statistics, simulation, and machine learning.
+[Explore the interactive portfolio ↗](https://thinurisw.github.io/Project-Experience/)
 
-**[Explore the interactive portfolio ↗](https://thinurisw.github.io/Project-Experience/)**
+</div>
 
-## 🧠 Brain imaging
+Some projects start with a brain scan. Others start with a missing survey response, or a question about what AI means for your job.
 
-### How does a brain change over time?
+Here’s what I’ve been working on.
 
-Longitudinal MRI and Bayesian mixed-effects models help track grey-matter changes in behavioural variant frontotemporal dementia. The project maps where changes occur, how fast they happen, and whether that rate is changing.
+---
 
-[Explore the MRI project →](./suds_neuroimaging/)
+## 🧠 Starting with the brain
 
-### What can MRI features tell us about Alzheimer’s?
+### A brain scan is one moment. What happens between scans?
 
-Extracting radiomic features from structural and longitudinal MRI, then testing machine learning models for early biomarker research.
+I use longitudinal MRI and Bayesian mixed-effects models to explore grey-matter changes in frontotemporal dementia. The maps track what changes, how fast, and whether that change is speeding up or slowing down.
 
-[Explore the biomarker project →](./Alzheimer_Biomarkers/)
+[Open the MRI project →](./suds_neuroimaging/)
 
-## 🎲 Longitudinal data & statistical methods
+### Looking closer at Alzheimer’s
 
-### What if follow-up depends on earlier outcomes?
+MRI scans contain more than we can inspect by eye. This project extracts radiomic features and tests machine learning models for potential early biomarkers.
 
-A simulation study of what happens when the observation process depends on the outcomes being studied. I assessed bias, mean squared error, and confidence-interval coverage in linear mixed-effects models.
+[Explore the scans, models & research →](./Alzheimer_Biomarkers/)
+
+## 🎲 The data collection matters, too
+
+### Who gets followed up—and when?
+
+Suppose your previous outcome influences your next observation time. I built simulations to investigate what that does to bias and confidence-interval coverage in longitudinal mixed-effects models.
 
 [Explore the follow-up study →](./longitudinal_followup_bias/)
 
-### Can we predict tomorrow’s missing survey?
+### 1,000 workers. 90 days. Who answers tomorrow?
 
-A synthetic workplace with 1,000 workers over 90 days. GRU models, logistic regression, and response-history baselines are compared to predict next-day survey nonresponse, with checks for calibration and information leakage.
+A simulated workplace becomes a test case for predicting survey nonresponse. GRU sequence models take on logistic regression and response-history baselines, with calibration and leakage checks along the way.
 
-[Explore the survey project →](./workplace_survey_nonresponse/)
+[Open the survey simulation →](./workplace_survey_nonresponse/)
 
-## 🤖 Work & AI
+## 🤖 Your job, on the map
 
 ### Where does your occupation fit?
 
-An analysis of 664 occupations across 128 skill features, examining how AI exposure relates to autonomy, task variety, and social interaction. The project includes my first-author paper and a searchable occupation map.
+664 occupations. 128 skill features. AI exposure is part of the picture, alongside autonomy, task variety, and social interaction.
 
-[Explore the research →](./occupational_ai_vulnerability/) · [Find your occupation ↗](https://thinurisw.github.io/Project-Experience/occupations.html)
+I implemented the analysis and wrote the first-author paper. The interactive map lets you search for an occupation and explore its scores.
 
-### How do stress and coping play out at work?
+**[Find your occupation ↗](https://thinurisw.github.io/Project-Experience/occupations.html)** · [Explore the research →](./occupational_ai_vulnerability/)
 
-A simulated workplace for exploring stress, burnout, productivity, and organizational interventions using agent-based modelling, machine learning, and reinforcement learning.
+### A workplace you can experiment with
 
-[Explore the workplace simulation →](./workplace_stress_abm_ml_rl/)
+What happens when workers cope differently, or an organization changes its approach? Agent-based simulation, machine learning, and reinforcement learning help explore stress, burnout, and productivity in a virtual workplace.
 
-## 🛠️ Applied modelling
+[Open the workplace simulation →](./workplace_stress_abm_ml_rl/)
 
-### Where do hospital patterns stand out?
+## 🛠️ Putting models to work
 
-Investigating unusually high admission and readmission patterns, then comparing workflows, scheduling, and follow-up practices to identify opportunities for better resource use.
+### Following the hospital patterns
+
+Unusual admission and readmission patterns raise questions about workflows, scheduling, and follow-up. This DataFest project explores where those differences could inform better resource use.
 
 [Explore the healthcare project →](./healthcare_resource_optimization/)
 
-### How can models support insurance pricing?
+### Renters’ insurance meets XGBoost
 
-Feature engineering and XGBoost applied to renters’ insurance, with a focus on pricing strategies and risk stratification.
+Structured insurance data, feature engineering, and a pricing challenge. I coded predictive models to explore risk stratification and pricing strategies.
 
-[Explore the insurance project →](./renters_insurance_pricing/)
+[Open the insurance project →](./renters_insurance_pricing/)
 
-## 🤝 Social connection
+## 🤝 Everyday interactions, interesting questions
 
-### How does social interaction relate to loneliness?
+### How does connection relate to loneliness?
 
-Survey analysis among older adults using regression, permutation tests, and effect sizes to examine relationships between social interaction and loneliness.
+Survey data from older adults, explored through regression, permutation tests, and effect sizes. I carried the project through analysis and poster creation.
 
 [Explore the loneliness project →](./Loneliness_Elderly/)
 
-### Do everyday interactions relate to mental wellness?
+### Even a greeting is worth investigating
 
-An analysis of the Canadian Social Connection Survey using regression and visualization to explore patterns in everyday social contact and mental wellness.
+This Canadian Social Connection Survey project examines how everyday social contact relates to mental wellness, using regression and visualization.
 
 [Explore the social connection project →](./CSCS_Project/)
+
+---
+
+**Want to browse it as a research desk?**  
+[Open the interactive portfolio ↗](https://thinurisw.github.io/Project-Experience/)
